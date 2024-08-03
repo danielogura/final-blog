@@ -21,13 +21,6 @@
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
-    "objectID": "posts/Democracy_in_Political_Speeches.html",
-    "href": "posts/Democracy_in_Political_Speeches.html",
-    "title": "Analyzing the Evolution of Discussions on Democracy and Governance in Political Speeches",
-    "section": "",
-    "text": "title:“Analyzing the Evolution of Discussions on Democracy and Governance in Political Speeches”\ndescription:“This project delves into how the themes of democracy and governance have been discussed in political speeches over the past century. By analyzing speeches from various political figures, we aim to understand the shifts and trends in how these crucial topics have been addressed over time. Using natural language processing (NLP) techniques, we’ll uncover patterns and significant changes in the discourse on democracy and governance.”\nauthor:“Daniel Ogura”\ndate:“08/02/2024”\ndate-modified:“08/02/2024”"
-  },
-  {
     "objectID": "posts/Democracy_in_Political_Speeches.html#introduction-section",
     "href": "posts/Democracy_in_Political_Speeches.html#introduction-section",
     "title": "Analyzing the Evolution of Discussions on Democracy and Governance in Political Speeches",
